@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Research
-permalink: /Research/
+title: Publications and Funding
+permalink: /Publications/
 ---
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
-<img style="float: right; margin-left: 15px; margin-top: 5px" width="25%" src="{{ site.url }}/images/2016-09-02 16.50.50.jpg" class="rotateimg180">
+<img style="float: right; margin-left: 15px; margin-top: 5px" width="25%" src="{{ site.url }}/images/2016-09-02 16.50.50.jpg">
 
 ## Michael W. Henson, PhD candidate
 
@@ -19,6 +19,12 @@ permalink: /Research/
 
 <br>
 [Henson Google Scholar Page](https://scholar.google.com/citations?user=pJvMEVoAAAAJ&hl=en)
+
+<br>
+
+<br>
+[Henson CV](https://www.dropbox.com/s/pwmln39ey20h73a/Henson_CV.docx?dl=0)
+
 <br>
 
 ---
