@@ -5,7 +5,6 @@ permalink: /Research/
 ---
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
-<img style="float: right; margin-left: 15px; margin-top: 5px" width="25%" src="{{ site.url }}/images/2016-09-02 16.50.50.jpg" class="rotateimg180">
 
 ## Michael W. Henson, PhD candidate
 
