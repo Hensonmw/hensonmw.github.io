@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-permalink: ./
+permalink: /
 ---
 **Hello and Welcome to my home page!**
 
