@@ -13,53 +13,17 @@ Born and raised in the Midwest, I came to LSU and the Thrash lab from [Dr. Deric
 
 <div class="w3-content w3-display-container">
   <img class="mySlides" src="{{ site.url }}/images/2016-09-02 16.50.50.jpg">
-  <div class="w3-display-bottomleft w3-container w3-padding-16 w3-black">
-    Trolltunga, Norway
-  </div>
-  <img class="mySlides" src=""{{ site.url }}/images/2016-09-02 16.50.50.jpg">
-  <div class="w3-display-bottomleft w3-container w3-padding-16 w3-black">
-    Trolltunga, Norway
-  </div>
   <img class="mySlides" src="{{ site.url }}/images/2016-09-02 16.50.50.jpg">
-  <div class="w3-display-bottomleft w3-container w3-padding-16 w3-black">
-    Trolltunga, Norway
-  </div>
   <img class="mySlides" src="{{ site.url }}/images/2016-09-02 16.50.50.jpg">
-  <div class="w3-display-bottomleft w3-container w3-padding-16 w3-black">
-    Trolltunga, Norway
-  </div>
   <img class="mySlides" src="{{ site.url }}/images/2016-09-02 16.50.50.jpg">
-  <div class="w3-display-bottomleft w3-container w3-padding-16 w3-black">
-    Trolltunga, Norway
-  </div>
   <img class="mySlides" src="{{ site.url }}/images/2016-09-02 16.50.50.jpg">
-  <div class="w3-display-bottomleft w3-container w3-padding-16 w3-black">
-    Trolltunga, Norway
-  </div>
   <img class="mySlides" src="{{ site.url }}/images/2016-09-02 16.50.50.jpg">
-  <div class="w3-display-bottomleft w3-container w3-padding-16 w3-black">
-    Trolltunga, Norway
-  </div>
   <img class="mySlides" src="{{ site.url }}/images/2016-09-02 16.50.50.jpg">
-  <div class="w3-display-bottomleft w3-container w3-padding-16 w3-black">
-    Trolltunga, Norway
-  </div>
   <img class="mySlides" src="{{ site.url }}/images/2016-09-02 16.50.50.jpg">
-  <div class="w3-display-bottomleft w3-container w3-padding-16 w3-black">
-    Trolltunga, Norway
-  </div>
   <img class="mySlides" src="{{ site.url }}/images/2016-09-02 16.50.50.jpg">
-  <div class="w3-display-bottomleft w3-container w3-padding-16 w3-black">
-    Trolltunga, Norway
-  </div>
   <img class="mySlides" src="{{ site.url }}/images/2016-09-02 16.50.50.jpg">
-  <div class="w3-display-bottomleft w3-container w3-padding-16 w3-black">
-    Trolltunga, Norway
-  </div>
   <img class="mySlides" src="{{ site.url }}/images/2016-09-02 16.50.50.jpg">
-  <div class="w3-display-bottomleft w3-container w3-padding-16 w3-black">
-    Trolltunga, Norway
-  </div>
+  <img class="mySlides" src="{{ site.url }}/images/2016-09-02 16.50.50.jpg">
   <div class="w3-center w3-display-bottommiddle" style="width:100%">
     <div class="w3-left" onclick="plusDivs(-1)">&#10094;</div>
     <div class="w3-right" onclick="plusDivs(1)">&#10095;</div>
