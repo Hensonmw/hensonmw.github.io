@@ -172,24 +172,3 @@ function showSlides(n) {
   dots[slideIndex-1].className += " active";
 }
 </script>
-<div class="w3-content w3-display-container">
-  <img class="mySlides" src="{{ site.url }}/images/2016-09-02 16.50.50.jpg">
-  <img class="mySlides" src="{{ site.url }}/images/2016-09-02 16.50.50.jpg">
-  <img class="mySlides" src="{{ site.url }}/images/2016-09-02 16.50.50.jpg">
-  <img class="mySlides" src="{{ site.url }}/images/2016-09-02 16.50.50.jpg">
-  <img class="mySlides" src="{{ site.url }}/images/2016-09-02 16.50.50.jpg">
-  <img class="mySlides" src="{{ site.url }}/images/2016-09-02 16.50.50.jpg">
-  <img class="mySlides" src="{{ site.url }}/images/2016-09-02 16.50.50.jpg">
-  <img class="mySlides" src="{{ site.url }}/images/2016-09-02 16.50.50.jpg">
-  <img class="mySlides" src="{{ site.url }}/images/2016-09-02 16.50.50.jpg">
-  <img class="mySlides" src="{{ site.url }}/images/2016-09-02 16.50.50.jpg">
-  <img class="mySlides" src="{{ site.url }}/images/2016-09-02 16.50.50.jpg">
-  <img class="mySlides" src="{{ site.url }}/images/2016-09-02 16.50.50.jpg">
-  <div class="w3-center w3-display-bottommiddle" style="width:100%">
-    <div class="w3-left" onclick="plusDivs(-1)">&#10094;</div>
-    <div class="w3-right" onclick="plusDivs(1)">&#10095;</div>
-    <span class="w3-badge demo w3-border" onclick="currentDiv(1)"></span>
-    <span class="w3-badge demo w3-border" onclick="currentDiv(2)"></span>
-    <span class="w3-badge demo w3-border" onclick="currentDiv(3)"></span>
-  </div>
-</div>
