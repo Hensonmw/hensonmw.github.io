@@ -5,11 +5,11 @@ permalink: /
 ---
 <h1>Hello and Welcome to my home page!</h1>
 
-<h2>if you are looking for the Thrash Lab website click [HERE](thethrashlab.com)</h2>
+<h2>If you are looking for the Thrash Lab website click <a href="thethrashlab.com">here</a></h2>
 
-<p>My name is Michael Henson and I am a fourth year graduate student in [Dr. Cameron Thrash's lab](thethrashlab.com) at [Louisiana State University](http://www.lsu.edu/science/biosci/).
+<p>My name is Michael Henson and I am a fourth year graduate student in <a href="thethrashlab.com">Dr. Cameron Thrash's lab</a> at <a href="http://www.lsu.edu/science/biosci/">Louisiana State University</a>.
 
-Born and raised in the Midwest, I came to LSU and the Thrash lab from [Dr. Deric Learman’s lab](http://people.cst.cmich.edu/learm1dr/Home_Page.html) at Central Michigan University where I completed my MS thesis investigating genomic, physiological, and chromate reduction variation among four isolates [(here)](https://dx.doi.org/10.7717/peerj.1395). While at the Learman lab, I was able to take part in projects at [Poyang Lake (Nanchang, China)](https://link.springer.com/article/10.1007/s13213-015-1189-8), [the Antarctic shelf](https://dx.doi.org/10.3389/fmicb.2016.00284), and in Great Lake coastal wetlands. Prior to my Master's, I spent a year in [Dr. Jorge Santo Domingo's lab](https://www.researchgate.net/profile/Jorge_Domingo) working as a student contractor. Together my research experiences have pulled me in many directions, but ultimately led me to develop a passion for research in environmental microbiology. Specifically, I use cultivation-dependent and -independent techniques to help inform our understanding on the evolutionary transition between freshwater and marine ecosystems and how both local and regional disturbances may alter biogeochemical cycling.<p>
+Born and raised in the Midwest, I came to LSU and the Thrash lab from <a href="http://people.cst.cmich.edu/learm1dr/Home_Page.html">Dr. Deric Learman's lab</a> at Central Michigan University where I completed my MS thesis investigating genomic, physiological, and chromate reduction variation among four isolates <a href="https://dx.doi.org/10.7717/peerj.1395">(here)</a>. While at the Learman lab, I was able to take part in projects at <a href="https://link.springer.com/article/10.1007/s13213-015-1189-8">Poyang Lake (Nanchang, China)</a>, <a href="https://dx.doi.org/10.3389/fmicb.2016.00284">the Antarctic shelf</a>, and in Great Lake coastal wetlands. Prior to my Master's, I spent a year in <a href="https://www.researchgate.net/profile/Jorge_Domingo">Dr. Jorge Santo Domingo's lab</a> working as a student contractor. Together my research experiences have pulled me in many directions, but ultimately led me to develop a passion for research in environmental microbiology. Specifically, I use cultivation-dependent and -independent techniques to help inform our understanding on the evolutionary transition between freshwater and marine ecosystems and how both local and regional disturbances may alter biogeochemical cycling.
 
 <style>
 * {box-sizing: border-box}
@@ -115,20 +115,176 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="/images/2016-09-02 16.50.50.jpg" style="width:100%">
-  <div class="text">Caption Text</div>
+  <img src="/images/2014-12-18 14.02.35.jpg" style="width:100%">
+  <div class="text">The gear is ready!</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="/images/2016-09-02 16.50.50.jpg" style="width:100%">
-  <div class="text">Caption Two</div>
+  <img src="/images/2014-12-18 16.43.55.jpg" style="width:100%">
+  <div class="text">A dolphin jumps ahead of us as we make passes across the channel with the ADCP </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/2015-03-20 08.55.32.jpg" style="width:100%">
+  <div class="text">An old shrimping boat wrecked near the outlet at our sampling site Freshwater City</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/2015-06-10 11.01.18.jpg" style="width:100%">
+  <div class="text">Practicing getting into our "gumby" suits while on the RV Kilo Moana headed to Station Aloha</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/2015-06-12 11.49.42.jpg" style="width:100%">
+  <div class="text">Lab work aboard the RV Kilo Moana at Station Aloha</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/2015-07-30 08.14.50.jpg" style="width:100%">
+  <div class="text">Dispensing media into our cultivation plates for an experiment aboard the RV Pelican in the Gulf of Mexico </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/2015-07-31 19.46.44.jpg" style="width:100%">
+  <div class="text">A sunset on the Gulf of Mexico</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
   <img src="/images/2016-09-02 16.50.50.jpg" style="width:100%">
   <div class="text">Caption Three</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/2015-08-19 19.27.56.jpg" style="width:100%">
+  <div class="text">The RV Pelican docked at LUMCON</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/2016-09-02 16.50.50.jpg" style="width:100%">
+  <div class="text">Caption Three</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/2015-08-20 15.08.20.jpg" style="width:100%">
+  <div class="text">An action shot as we tie to an old platform in the Gulf of Mexico</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/2015-08-22 17.25.11.jpg" style="width:100%">
+  <div class="text">Deploying the CTD!</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/2016-09-02 16.50.50.jpg" style="width:100%">
+  <div class="text">Caption Three</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/2015-08-22 19.11.09.jpg" style="width:100%">
+  <div class="text">The sun setting on the box corer on the RV Pelican</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/2016-05-13 10.02.28.jpg" style="width:100%">
+  <div class="text">Filtering water for community sequencing</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/2016-07-26 09.49.38.jpg style="width:100%">
+  <div class="text">A wavy, rainy day on the RV Pelican</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/2016-07-28 10.34.09.jpg" style="width:100%">
+  <div class="text">Back in the hood for more cultivation work!</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/2016-09-02 12.38.24.jpg" style="width:100%">
+  <div class="text">Collecting water from the Mississippi River near Bemidji, MN for community sequencing </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/2016-09-02 16.50.50.jpg" style="width:100%">
+  <div class="text">The Mississippi River is much smaller in upper Minnesota than it is in Baton Rouge</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/2016-09-03 14.11.34.jpg" style="width:100%">
+  <div class="text">More water filtration for the Mississippi River for community sequencing in St. Cloud, MN</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/2016-09-05 11.02.09.jpg" style="width:100%">
+  <div class="text">Getting a little dose of what it was like for the rowers that rowed the entire Mississippi River!</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/2016-09-05 11.24.08.jpg" style="width:100%">
+  <div class="text">I think I was doing it right?</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/2016-09-05 11.35.55.jpg" style="width:100%">
+  <div class="text">Teaching the rowers/citizen scientists how to collect our water and nutrient samples</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/2017-01-27 09.25.52.jpg" style="width:100%">
+  <div class="text">The gear was all ready on that beautiful day on the Mississippi Bird foot</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/2017-05-04 07.09.14 HDR.jpg" style="width:100%">
+  <div class="text">The Guava aboard the RV Oceanus in the ENTP!</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/2017-05-04 07.22.22.jpg" style="width:100%">
+  <div class="text">The RV Oceanus docked at port in Mazatlán, Mexico</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/2017-05-06 10.25.18.jpg" style="width:100%">
+  <div class="text">Helping retrieve the CTD full of OMZ water</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/2017-05-06 13.38.43 HDR.jpg" style="width:100%">
+  <div class="text">Great action shot of the science crew retrieving a CTD on the RV Oceanus!</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/2017-05-10 08.17.57.jpg" style="width:100%">
+  <div class="text">Me at the command center helping deploy the CTD</div>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
