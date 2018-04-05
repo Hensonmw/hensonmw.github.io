@@ -8,3 +8,5 @@ google_analytics: "UA-116920343-1"
 url: "http://hensonmw.github.io"
 theme: jekyll-theme-cayman
 markdown: kramdown
+plugins:
+    - jekyll-twitter-plugin
