@@ -5,7 +5,7 @@ permalink: /
 ---
 <h1>Hello and Welcome to my home page!</h1>
 
-<h2>If you are looking for the Thrash Lab website click <a href="thethrashlab.com">here</a></h2>
+<h3>If you are looking for the Thrash Lab website click <a href="thethrashlab.com">here</a></h3>
 
 <p>My name is Michael Henson and I am a fourth year graduate student in <a href="thethrashlab.com">Dr. Cameron Thrash's lab</a> at <a href="http://www.lsu.edu/science/biosci/">Louisiana State University</a>.
 
