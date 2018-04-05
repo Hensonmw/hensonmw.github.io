@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Research
-permalink: /Research/
+title: Publications and Funding
+permalink: /Publications/
 ---
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
@@ -19,7 +19,8 @@ permalink: /Research/
 <br>
 [Henson Google Scholar Page](https://scholar.google.com/citations?user=pJvMEVoAAAAJ&hl=en)
 <br>
-
+[Henson CV](https://www.dropbox.com/s/pwmln39ey20h73a/Henson_CV.docx?dl=0)
+<br>
 ---
 ---
 <br>
@@ -76,8 +77,8 @@ Glassmeyer, S., and Santo Domingo, J. (2013). [Development of quantitative PCR a
 
 ### Funding
 
-2017 - 2018	Lerner Gray Grant, “Examining the functional differences of two important SAR11 subclades and its insights on how
+*2017 - 2018*	Lerner Gray Grant, “Examining the functional differences of two important SAR11 subclades and its insights on how
 salinity changes may alter global biogeochemical cycles.” American Natural History Museum, $2500
 
-2015 - 2016	LEEC Research Grant, “Assessment of wetlands on the Louisiana coast using baseline microbial community structure
+*2015 - 2016*	LEEC Research Grant, “Assessment of wetlands on the Louisiana coast using baseline microbial community structure
 and developing microbial indices”, LA Department of Wildlife & Fisheries, $1138
