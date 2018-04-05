@@ -3,7 +3,7 @@ layout: default
 title: Home
 permalink: /
 ---
-<h1>Hello and Welcome to my home page!</h1>
+<h1><strong>Hello and welcome to my home page!</strong></h1>
 
 <h3>If you are looking for the Thrash Lab website click <a href="thethrashlab.com">here</a></h3>
 
@@ -19,7 +19,7 @@ img {vertical-align: middle;}
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 500px;
+  max-width: 1000px;
   position: relative;
   margin: auto;
 }

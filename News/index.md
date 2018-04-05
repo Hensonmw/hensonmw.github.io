@@ -4,7 +4,7 @@ title: News
 permalink: /News/
 ---
 
-<h1>See what I have been up to lately!</h2>
+<h1><strong>See what I have been up to lately!</strong></h1>
 
 <h2>News</h2>
 
