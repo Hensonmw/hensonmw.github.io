@@ -8,7 +8,6 @@ permalink: /Publications/
 <img style="float: right; margin-left: 15px; margin-top: 5px" width="25%" src="{{ site.url }}/images/2016-09-02 16.50.50.jpg">
 
 ## Michael W. Henson, PhD candidate
-
 <br>
 *__Louisiana State University__*  
 *Aquatic Microbiology*  
@@ -19,18 +18,12 @@ permalink: /Publications/
 
 <br>
 [Henson Google Scholar Page](https://scholar.google.com/citations?user=pJvMEVoAAAAJ&hl=en)
-
-<br>
-
 <br>
 [Henson CV](https://www.dropbox.com/s/pwmln39ey20h73a/Henson_CV.docx?dl=0)
-
 <br>
-
 ---
 ---
 <br>
-
 ### Publications (career citation metrics: 76 citations, h-index= 4, i10-index= 1)
 
 <div style="float: right; padding-left: 15px" class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="10.1101/261727"></div>
