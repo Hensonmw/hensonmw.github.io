@@ -4,7 +4,9 @@ title: Home
 permalink: /
 ---
 
-<h1><strong>Welcome to my home page!</strong></h1>
+<h1><strong>Welcome!</strong></h1>
+
+Stay tuned for more information as I continue to build my website!
 
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
