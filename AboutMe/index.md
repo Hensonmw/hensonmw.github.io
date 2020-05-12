@@ -18,7 +18,7 @@ permalink: /AboutMe/
 <br>
 [Henson Google Scholar Page](https://scholar.google.com/citations?user=pJvMEVoAAAAJ&hl=en)
 <br>
-[Henson CV]({{ site.url }}/assets/CV.pdf).
+[Henson CV]({{ site.url }}/assets/CV.pdf)
 <br>
 ---
 ---
