@@ -7,7 +7,6 @@ permalink: /
 <h1><strong>Welcome to my home page!</strong></h1>
 
 
-
 <style>
 * {box-sizing: border-box}
 body {font-family: Verdana, sans-serif; margin:0}
