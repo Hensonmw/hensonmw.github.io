@@ -3,11 +3,12 @@ layout: default
 title: About Me
 permalink: /AboutMe/
 ---
+<h1><strong>About Me</strong></h1>
 
 ## Michael W. Henson, PhD
 
 <br>
-*__University of Chicago__*  
+__University of Chicago__ 
 *Department of the Geophysical Sciences* 
 *5734 S. Ellis Avenue*  
 *Chicago, IL 60637*  
