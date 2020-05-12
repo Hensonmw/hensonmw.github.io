@@ -8,6 +8,7 @@ permalink: /AboutMe/
 ## Michael W. Henson, PhD
 <img align="right" width="25%" height="25%" src="/assets/Me.png">
 
+
 <br>
 *__University of Chicago__*
 *Department of the Geophysical Sciences* 
