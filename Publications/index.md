@@ -46,8 +46,7 @@ and indicators of eutrophication on the Mississippi River identified via a human
 
 <div style="float: right; padding-left: 15px" class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="10.1128/genomeA.01231-16"></div>
 
-Lanclos, V.C., **Henson, M.W.**, Pitre, D.M. and Thrash, J.C. (2016). [Draft genome sequence of strain LSUCC0135, an
-early diverging member of the order *Methylophilales* in the phylum Betaproteobacteria](http://genomea.asm.org/content/4/6/e01231-16.full){:target="_blank"}. *Genome announcements* 4(6), pp.e01231-16.
+Lanclos, V.C., **Henson, M.W.**, Pitre, D.M. and Thrash, J.C. (2016). [Draft genome sequence of strain LSUCC0135, an early diverging member of the order *Methylophilales* in the phylum Betaproteobacteria](http://genomea.asm.org/content/4/6/e01231-16.full){:target="_blank"}. *Genome announcements* 4(6), pp.e01231-16.
 
 <div style="float: right; padding-left: 15px" class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="10.1128/mSphere.00028-16"></div>
 
