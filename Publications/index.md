@@ -6,24 +6,6 @@ permalink: /Publications/
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 
-## Michael W. Henson, PhD
-
-<br>
-*__University of Chicago__*  
-*Department of the Geophysical Sciences* 
-*5734 S. Ellis Avenue*  
-*Chicago, IL 60637*  
-*hensonmw at gmail dot com*  
-
-<br>
-[Henson Google Scholar Page](https://scholar.google.com/citations?user=pJvMEVoAAAAJ&hl=en)
-<br>
-[Henson CV](https://www.dropbox.com/s/pwmln39ey20h73a/Henson_CV.docx?dl=0)
-<br>
----
----
-<br>
-
 ### Publications (career citation metrics: 240 citations, h-index= 8, i10-index= 8)
 
 <div style="float: right; padding-left: 15px" class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="10.1101/2020.04.17.046896"></div>
