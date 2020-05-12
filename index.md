@@ -6,7 +6,7 @@ permalink: /
 
 <h1><strong>Welcome to my home page!</strong></h1>
 
-
+<head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {box-sizing: border-box}
@@ -16,7 +16,7 @@ img {vertical-align: middle;}
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 500px;
+  max-width: 325px;
   position: relative;
   margin: auto;
 }
