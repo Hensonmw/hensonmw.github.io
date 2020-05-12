@@ -3,7 +3,7 @@ layout: default
 title: Home
 permalink: /
 ---
-<h1> Michael Henson Ph.D., Postdoctoral Researcher in the <a href="http://biogeolabs.uchicago.edu/colemanlab/">Coleman Lab</a></h3>
+<h1> Michael Henson Ph.D., Postdoctoral Researcher in the <a href="http://biogeolabs.uchicago.edu/colemanlab/">Coleman Lab</a>
 
 <h3><strong>Welcome to my home page!</strong></h3>
 
