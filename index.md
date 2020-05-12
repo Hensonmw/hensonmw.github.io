@@ -5,8 +5,6 @@ permalink: /
 ---
 
 <h1><strong>Welcome to my home page!</strong></h1>
-
-{% plugin_type twitter_url *options %}
 {% twitter https://twitter.com/HensonMW_08 maxwidth=500 limit=5 %}
 
 
