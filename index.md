@@ -11,6 +11,8 @@ Born and raised in the Midwest, I came to the University of Chicago as a Postdoc
 
 Outside of the lab and office, I enjoy cooking, hiking, backpacking, scuba diving, and crossfit.
 
+
+
 <style>
 * {box-sizing: border-box}
 body {font-family: Verdana, sans-serif; margin:0}
@@ -19,7 +21,7 @@ img {vertical-align: middle;}
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 750px;
+  max-width: 500px;
   position: relative;
   margin: auto;
 }
