@@ -6,7 +6,7 @@ permalink: /AboutMe/
 <h1><strong>About Me</strong></h1>
 
 ## Michael W. Henson, PhD
-![test image size](/assets/Me.png){:height="25%" width="25%"}
+<img align="right" width="25%" height="25%" src="/assets/Me.png">
 
 <br>
 *__University of Chicago__*
