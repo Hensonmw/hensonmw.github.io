@@ -3,13 +3,13 @@ layout: default
 title: Home
 permalink: /
 ---
-<h1><strong>Hello and welcome to my home page!</strong></h1>
+<h1> Michael Henson Ph.D., Postdoctoral Researcher in the <a href="http://biogeolabs.uchicago.edu/colemanlab/">Coleman Lab</a></h3>
 
-<h3>If you are looking for the Thrash Lab website click <a href="thethrashlab.com">here</a></h3>
+<h3><strong>Welcome to my home page!</strong></h3>
 
-<p>My name is Michael Henson and I am a fourth year graduate student in <a href="thethrashlab.com">Dr. Cameron Thrash's lab</a> at <a href="http://www.lsu.edu/science/biosci/">Louisiana State University</a>.
+Born and raised in the Midwest, I came to the University of Chicago from the <a href="https://thethrashlab.com/">Thrash lab</a> at the University of Southern California. I graduated with my Ph.D. in May of 2019 from LSU where my dissertation used high-throughput cultivation to help facilitate the genomic and physiological characterization of previously uncultivated and important marine/freshwater microbial clades. Our cultivation campaign resulted in the isolation of 13 novel Genera and Species, as well as numerous cultivars that have never before been isolated using artificial media. One of the most important cultivars obtained by these efforts, <a href="https://www.nature.com/articles/s41396-018-0092-2">SAR11 LD12</a> (Freshwater SAR11), was studied to determine the genomic and physiological traits associated with its distribution, as well as generate a hypothesis about the evolutionary transition between marine and freshwater habitats. I also helped lead research on how the biogeochemistry and stream order of <a href="https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lno.10811">the Mississippi River</a> effect the microbial communities in the surface water. Prior to my Ph.D., I received my Master's Degree from Central Michigan University in <a href="http://people.cst.cmich.edu/learm1dr/Home_Page.html">Dr. Deric Learman's lab</a>. My MS thesis investigated the genomic, physiological, and chromate reduction variation among four isolates <a href="https://dx.doi.org/10.7717/peerj.1395">(here)</a>. While at the Learman lab, I also took part in projects on microbial ecology of <a href="https://link.springer.com/article/10.1007/s13213-015-1189-8">Poyang Lake (Nanchang, China) and the Great Lakes </a> and <a href="https://dx.doi.org/10.3389/fmicb.2016.00284">the Antarctic shelf</a>.
 
-Born and raised in the Midwest, I came to LSU and the Thrash lab from <a href="http://people.cst.cmich.edu/learm1dr/Home_Page.html">Dr. Deric Learman's lab</a> at Central Michigan University where I completed my MS thesis investigating genomic, physiological, and chromate reduction variation among four isolates <a href="https://dx.doi.org/10.7717/peerj.1395">(here)</a>. While at the Learman lab, I was able to take part in projects at <a href="https://link.springer.com/article/10.1007/s13213-015-1189-8">Poyang Lake (Nanchang, China)</a>, <a href="https://dx.doi.org/10.3389/fmicb.2016.00284">the Antarctic shelf</a>, and in Great Lake coastal wetlands. Prior to my Master's, I spent a year in <a href="https://www.researchgate.net/profile/Jorge_Domingo">Dr. Jorge Santo Domingo's lab</a> working as a student contractor. Together my research experiences have pulled me in many directions, but ultimately led me to develop a passion for research in environmental microbiology. Specifically, I use cultivation-dependent and -independent techniques to help inform our understanding on the evolutionary transition between freshwater and marine ecosystems and how both local and regional disturbances may alter biogeochemical cycling.
+Outside of the lab and office, I enjoy cooking, hiking, backpacking, scuba diving, and crossfit.
 
 <style>
 * {box-sizing: border-box}
@@ -19,7 +19,7 @@ img {vertical-align: middle;}
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 1000px;
+  max-width: 750px;
   position: relative;
   margin: auto;
 }
