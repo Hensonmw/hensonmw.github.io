@@ -61,7 +61,7 @@ img {vertical-align: middle;}
   text-align: center;
 }
 
-/* Number text (1/3 etc) */
+/* Number text (1/5 etc) */
 .numbertext {
   color: #f2f2f2;
   font-size: 12px;
@@ -115,10 +115,35 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 3</div>
-  <img src="/images/2014-12-18 14.02.35.jpg" style="width:100%">
-  <div class="text">Caption Text</div>
+  <div class="numbertext">1 / 5</div>
+  <img src="/images/Alvin_Pacific_MWH.jpg" style="width:100%">
+  <div class="text">Recovering HOV Alvin</div>
 </div>
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 5</div>
+  <img src="/images/CTD_Pacific_MWH.jpg" style="width:100%">
+  <div class="text">CTD Recovery</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 5</div>
+  <img src="/images/GoM_MWH.jpg" style="width:100%">
+  <div class="text">Oil Platform (C6C) in the Gulf of Mexico</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">4 / 5</div>
+  <img src="/images/HEadwaters_MWH.jpg" style="width:100%">
+  <div class="text">Headwaters of the Mississippi River</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">4 / 5</div>
+  <img src="/images/Sunset_Pacific_MWH.jpg" style="width:100%">
+  <div class="text">The sun setting on the Pacific</div>
+</div>
+
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
 <a class="next" onclick="plusSlides(1)">&#10095;</a>
