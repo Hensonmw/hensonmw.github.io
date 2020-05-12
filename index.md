@@ -6,10 +6,8 @@ permalink: /
 
 <h1><strong>Welcome to my home page!</strong></h1>
 
-<div class='jekyll-twitter-plugin' align="right">
-    {% twitter https://twitter.com/HensonMW_08 maxwidth=500 limit=5 %}
-</div>
-
+{% plugin_type twitter_url *options %}
+{% twitter https://twitter.com/HensonMW_08 maxwidth=500 limit=5 %}
 
 
 <style>
