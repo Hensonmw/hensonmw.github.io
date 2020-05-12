@@ -11,7 +11,6 @@ permalink: /AboutMe/
 
 <br>
 *__University of Chicago__*
-
 *Department of the Geophysical Sciences* 
 *5734 S. Ellis Avenue*  
 *Chicago, IL 60637*  
